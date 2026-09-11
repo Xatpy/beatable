@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-09T11:20:06.119Z",
+  "generatedAt": "2026-09-11T11:17:57.486Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1213,
-  "matchedCount": 893,
+  "totalCatalogCount": 1215,
+  "matchedCount": 892,
   "freshMatchCount": 0,
-  "cachedMatchCount": 893,
+  "cachedMatchCount": 892,
   "derivedMatchCount": 0,
-  "unmatchedCount": 320,
+  "unmatchedCount": 323,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 568,
+      "totalTitles": 570,
       "matchedTitles": 389
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
       "totalTitles": 645,
-      "matchedTitles": 504
+      "matchedTitles": 503
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1037,
-      "matchedTitles": 773
+      "totalTitles": 1039,
+      "matchedTitles": 772
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
@@ -318,6 +318,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Date Everything!",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Dead by Daylight",
       "catalogTypes": "Game Catalog"
@@ -444,12 +449,12 @@
     },
     {
       "service": "Xbox Game Pass",
-      "title": "EA SPORTS FC™ 26 Xbox One",
+      "title": "EA SPORTS FC™ 26 XBOX One",
       "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
-      "title": "EA SPORTS FC™ 26 Xbox Series X|S",
+      "title": "EA SPORTS FC™ 26 XBOX Series X|S",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1394,6 +1399,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "The Royal Writ",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "The Sims™ 4 EA Play Edition",
       "catalogTypes": "Game Catalog"
     },
@@ -1540,6 +1550,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Vapor World: Over The Mind (Game Preview)",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Virtua Fighter 5 R.E.V.O. World Stage",
       "catalogTypes": "Game Catalog"
     },
     {
