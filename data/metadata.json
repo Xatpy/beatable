@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-13T11:48:31.167Z",
+  "generatedAt": "2026-09-15T11:41:53.062Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1215,
+  "totalCatalogCount": 1217,
   "matchedCount": 892,
   "freshMatchCount": 0,
   "cachedMatchCount": 892,
   "derivedMatchCount": 0,
-  "unmatchedCount": 323,
+  "unmatchedCount": 325,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 570,
+      "totalTitles": 572,
       "matchedTitles": 389
     },
     "playstation-plus": {
@@ -27,7 +27,7 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1039,
+      "totalTitles": 1041,
       "matchedTitles": 772
     },
     "Classics Catalog": {
@@ -1134,6 +1134,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "RuneScape: Dragonwilds",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "RV There Yet?",
       "catalogTypes": "Game Catalog"
     },
@@ -1325,6 +1330,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Tamashika",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "TCG Card Shop Simulator",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1663,5 +1673,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 105
+  "durationSeconds": 127
 }
