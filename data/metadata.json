@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T10:55:00.457Z",
+  "generatedAt": "2026-09-21T12:43:33.846Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 686,
+  "totalCatalogCount": 689,
   "matchedCount": 467,
   "freshMatchCount": 0,
   "cachedMatchCount": 467,
   "derivedMatchCount": 0,
-  "unmatchedCount": 219,
+  "unmatchedCount": 222,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
@@ -20,15 +20,15 @@
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 121,
+      "totalTitles": 124,
       "matchedTitles": 87
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 614,
-      "matchedTitles": 413
+      "totalTitles": 620,
+      "matchedTitles": 415
     },
     "Ubisoft+ Classics": {
       "catalogType": "Ubisoft+ Classics",
@@ -225,6 +225,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Cricket 26 - The Official Game of the Ashes",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Crime Boss: Rockay City",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -768,6 +773,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "RuneScape: Dragonwilds",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "RV There Yet?",
       "catalogTypes": "Game Catalog"
@@ -938,6 +948,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Terraria – PlayStation®4 Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "TerraTech Legion",
       "catalogTypes": "Game Catalog"
@@ -1010,7 +1025,7 @@
     {
       "service": "PlayStation Plus",
       "title": "Tom Clancy’s The Division 2",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
     {
       "service": "Xbox Game Pass",
@@ -1138,5 +1153,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 74
+  "durationSeconds": 66
 }
