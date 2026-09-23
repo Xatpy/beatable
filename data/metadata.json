@@ -1,34 +1,39 @@
 {
-  "generatedAt": "2026-09-21T12:43:33.846Z",
+  "generatedAt": "2026-09-23T11:31:56.539Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 689,
-  "matchedCount": 467,
+  "totalCatalogCount": 1210,
+  "matchedCount": 547,
   "freshMatchCount": 0,
-  "cachedMatchCount": 467,
+  "cachedMatchCount": 547,
   "derivedMatchCount": 0,
-  "unmatchedCount": 222,
+  "unmatchedCount": 663,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 565,
+      "totalTitles": 568,
       "matchedTitles": 380
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 124,
-      "matchedTitles": 87
+      "totalTitles": 642,
+      "matchedTitles": 167
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 620,
-      "matchedTitles": 415
+      "totalTitles": 1034,
+      "matchedTitles": 539
+    },
+    "Classics Catalog": {
+      "catalogType": "Classics Catalog",
+      "totalTitles": 171,
+      "matchedTitles": 7
     },
     "Ubisoft+ Classics": {
       "catalogType": "Ubisoft+ Classics",
@@ -43,8 +48,33 @@
   },
   "unmatchedTitles": [
     {
+      "service": "PlayStation Plus",
+      "title": "2Xtreme",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "A Game About Digging A Hole™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "A Hat in Time",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "A Little to the Left PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "A Quiet Place: The Road Ahead",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "A-Train Express",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -53,9 +83,29 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Adventure Time Pirates of the Enchiridion",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Albion Online",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Alienation™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Alone in the Dark 2 (1996)",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Alone in the Dark: The New Nightmare (2001)",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -75,11 +125,86 @@
     {
       "service": "PlayStation Plus",
       "title": "Anno 1800™ Console Edition - Standard",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Anodyne",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Another Crab’s Treasure",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "AO Tennis 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ape Academy",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ape Academy 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ape Escape",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ape Escape P",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ape Escape™ 2",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
       "title": "Aphelion",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Aragami",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Arc The Lad: Twilight of the Spirits™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Arcade Paradise PS4™ & PS5™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "ARMORED CORE",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "ARMORED CORE MASTER OF ARENA",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "ARMORED CORE PROJECT PHANTASMA",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "art of rally",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -90,7 +215,32 @@
     {
       "service": "PlayStation Plus",
       "title": "Assassin’s Creed® IV Black Flag™",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Assetto Corsa Competizione",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Atari Flashback Classics Vol. 1",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Atari Flashback Classics Vol. 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Atelier Ryza 3: Alchemist of the End & the Secret Key (PS4 & PS5)",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Atlas Fallen: Reign of Sand",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -100,7 +250,17 @@
     {
       "service": "PlayStation Plus",
       "title": "Avatar: Frontiers of Pandora™",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Back 4 Blood: Standard Edition PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Bad North",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -108,9 +268,19 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Bang-On Balls: Chronicles",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Barbie™ Horse Trails",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Battle Engine Aquila",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -133,8 +303,43 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Bee Simulator",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ben 10",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "BEYOND: Two Souls™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Biped",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Black Jacket",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Blade Dancer: Lineage of Light",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Blades of Fire",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Blasphemous 2",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -143,13 +348,58 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Blood Omen 2: Legacy of Kain",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Blood Omen: Legacy of Kain",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Bloodborne™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Bound",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Bramble: The Mountain King",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Brawlout",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Broken Age",
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Broken Sword - Shadow of the Templars: Reforged",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Buckshot Roulette",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Bus Simulator 21 Next Stop",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Call of Cthulhu®",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -194,8 +444,48 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "Captain Tsubasa: Rise of New Champions",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Car Mechanic Simulator",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Cartoon Network: Battle Crashers",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Cat Quest",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Cat Quest II",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Cat Quest III",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Chained Echoes",
       "catalogTypes": "Monthly Games"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Chernobylite Complete Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Chess Ultra",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -203,8 +493,68 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Chivalry 2 PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Citizen Sleeper",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Citizen Sleeper 2: Starward Vector",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Coffee Talk",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Conan Exiles",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Concrete Genie",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Concrete Genie Digital Deluxe Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Conker: Live and Reloaded",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "CONSCRIPT",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "CONTRA: ROGUE CORPS",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Cool Boarders",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Coral Island",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -223,6 +573,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Cricket 24",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Cricket 26 - The Official Game of the Ashes",
       "catalogTypes": "Game Catalog"
@@ -238,13 +593,63 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Crow Country",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Dark Cloud™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Dark Cloud™ 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Dark Rose Valkyrie",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Darkest Dungeon II PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Date Everything!",
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Date Everything!",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Daxter",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Days Gone",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Dead by Daylight",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Dead by Daylight PS4® & PS5®",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "DEAD OR ALIVE 5 Last Round",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -263,6 +668,21 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "DEADCRAFT",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Death end reQuest",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Demon's Souls",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Denshattack!",
       "catalogTypes": "Game Catalog"
@@ -273,6 +693,26 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Desperados III",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Detroit: Become Human",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Deus Ex: Mankind Divided",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Deus Ex: The Conspiracy PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Diablo® II: Resurrected™",
       "catalogTypes": "Game Catalog"
@@ -281,6 +721,41 @@
       "service": "Xbox Game Pass",
       "title": "Dice A Million",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Dino Crisis",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "DISGAEA 5: ALLIANCE OF VENGEANCE",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Disney's Atlantis: The Lost Empire",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Disney•Pixar Buzz Lightyear of Star Command",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Disney•Pixar Up",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Disney•Pixar Wall-E",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "DOOM II (Classic)",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -298,13 +773,48 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Dragon Star Varnir",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Dreams™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "DreamWorks Gabby’s Dollhouse: Ready to Party",
       "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
+      "title": "Dropship: United Peace Force",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Dune: Awakening",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Dying Light",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Dying Light 2 Stay Human PS4&PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "DYNASTY WARRIORS 8 Empires",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "DYNASTY WARRIORS 9",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -353,8 +863,63 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Earth Defense Force 4.1: The Shadow of New Despair",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "EARTH DEFENSE FORCE 5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "EARTH DEFENSE FORCE:IRON RAIN",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "EARTH DEFENSE FORCE:WORLD BROTHERS",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Echo Generation 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "echochrome",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Echoes of the End: Enhanced Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "echoshift",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Eldest Souls",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Embr",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Empire of Sin",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "ENDLESS Dungeon™ - Definitive Edition PS4 & PS5",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -368,6 +933,21 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Enotria: The Last Song Standard Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Entwined™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Erica",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Escape Simulator",
       "catalogTypes": "Game Catalog"
@@ -378,6 +958,36 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Everybody's Golf",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Everybody's Golf",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Everybody's Golf 2 (PS1)",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Fade to Silence",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "FantaVision™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "FAR: Changing Tides PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "FARCRY 6",
       "catalogTypes": "Game Catalog"
@@ -385,7 +995,17 @@
     {
       "service": "PlayStation Plus",
       "title": "FARCRY 6",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Fate/Samurai Remnant(PS4 & PS5)",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "FIA European Truck Racing Championship",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -404,12 +1024,47 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "FINAL FANTASY VII REMAKE",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "FINAL FANTASY XVI",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Firefighting Simulator: Ignite",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Five Nights at Freddy's: Help Wanted",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Five Nights at Freddy's: Help Wanted - Full Time Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Five Nights at Freddy's: Help Wanted 2",
       "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
       "title": "FixForce",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Flintlock: The Siege of Dawn",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -421,6 +1076,11 @@
       "service": "PlayStation Plus",
       "title": "Football Manager 26 Console",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Forbidden Siren",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -438,8 +1098,103 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Fury Unleashed",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "G-Police",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "GAROU: MARK OF THE WOLVES™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ghost of Tsushima DIRECTOR’S CUT (PlayStation Plus)",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ghosthunter",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Gigantosaurus The Game",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Gitaroo-Man",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Gloomhaven Mercenaries Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "GOALS",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "God of War",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "God of War III Remastered",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "GODS EATER BURST PS4™ & PS5®",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Grand Ages: Medieval",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Grand Theft Auto V (PS4™ & PS5™)",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Grandia",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Gravity Crash Portable",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Gravity Rush™ 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Gravity Rush™ Remastered",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Green Hell",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Green Hell PS4 + PS5 Free Upgrade",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -451,6 +1206,26 @@
       "service": "Xbox Game Pass",
       "title": "Halo: Campaign Evolved - Standard Edition",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Harvest Moon: Back to Nature",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Harvest Moon: One World",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Harvest Moon®: Light of Hope Special Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Heavy Rain",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -469,6 +1244,16 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "HELLDIVERS™ 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Herc's Adventures",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Hogwarts Legacy PS4 Version",
       "catalogTypes": "Game Catalog"
     },
@@ -483,8 +1268,73 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Horizon Zero Dawn: Complete Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Horizon Zero Dawn™ Remastered",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Hot Shots® Tennis",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Hotel Transylvania: Scary-Tale Adventures",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Hotline Miami",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Hotline Miami 2: Wrong Number",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "HUMANITY",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "HUMANKIND™ PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "I am Bread",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ice Age: Scrat's Nutty Adventure",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Immortals of Aveum™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Indiana Jones and the Staff of Kings",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "INDIGO PROPHECY",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "inFAMOUS First Light",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -493,13 +1343,73 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Insurgency: Sandstorm [PS4 & PS5]",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "It Takes Two - Digital Version",
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Jak 3",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jak and Daxter: The Lost Frontier",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jak and Daxter™: The Precursor Legacy",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jak II",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jak X: Combat Racing",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jeanne d'Arc",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jet Rider",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jet Rider 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "JUMANJI: The Video Game",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jumping Flash!",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Junkster",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Jurassic World Evolution 2",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -523,8 +1433,18 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Key of Heaven",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "KILL IT WITH FIRE! 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Killer Frequency",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -538,13 +1458,93 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Killing Floor 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Killzone Shadow Fall™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Killzone: Liberation",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Kiln",
       "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
+      "title": "Kinetica™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Kingdom: New Lands",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Knack™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Kurushi",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Kurushi™ Final: Mental Blocks",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Lake PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Legacy of Kain: Defiance PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LEGO Star Wars II: The Original Trilogy",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LEGO® Batman™ 3: Beyond Gotham",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LEGO® DC Super-Villains",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "LEGO® Horizon Adventures™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LEGO® Jurassic World™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LEGO® Marvel's Avengers",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LEGO® NINJAGO® Movie Video Game",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -554,12 +1554,97 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "LEGO® The Hobbit™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LEGO® Worlds",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Life is Strange: Double Exposure",
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Little Big Workshop",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Lock's Quest",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LocoRoco Midnight Carnival",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LocoRoco™ 2 Remastered",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LocoRoco™ Remastered",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "LUMINES REMASTERED",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Luna Abyss",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Mad King Redemption",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Magicka 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Mahjong",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Malicious Fallen",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Maneater PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Marvel's Guardians of the Galaxy PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Marvel's Spider-Man Remastered",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Marvel's Spider-Man: Game of the Year Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Marvel's Spider-Man: Miles Morales PS4 & PS5",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -573,13 +1658,68 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "MATTERFALL",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "MAVRIX by Matt Jones",
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "MediEvil",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "MediEvil",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "MediEvil 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "MediEvil Resurrection™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Mega Man X: Command Mission",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Megadimension Neptunia VII",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "MELTY BLOOD: TYPE LUMINA",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Metal Eden",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Metro Redux",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Mighty Morphin Power Rangers: Rita's Rewind",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -603,6 +1743,26 @@
       "catalogTypes": "Monthly Games"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Monster Boy and the Cursed Kingdom",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Monster Jam™ Showdown PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Monster Train",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Monster Truck Championship",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Monsters are Coming!",
       "catalogTypes": "Game Catalog"
@@ -610,6 +1770,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Moonlighter 2: The Endless Vault",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "MORDHAU",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -625,6 +1790,26 @@
     {
       "service": "Xbox Game Pass",
       "title": "MOTORSLICE",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Mr Moskeeto",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Mr. Driller PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Myst (PS1)",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Mystic Pillars X Kantara",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -648,6 +1833,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Neva",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "New MONOPOLY®",
       "catalogTypes": "Game Catalog"
@@ -655,7 +1845,7 @@
     {
       "service": "PlayStation Plus",
       "title": "NEW MONOPOLY®",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
     {
       "service": "Xbox Game Pass",
@@ -678,8 +1868,63 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Nioh",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "No Heroes Allowed!",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "No More Heroes 3",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "NOBUNAGA'S AMBITION: Taishi",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Observer: System Redux",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "OddBallers™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Oddworld: Abe's Exoddus (PS1 Emulation)",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Oddworld: Abe's Oddysee (PS1 Emulation)",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Oddworld: New 'n' Tasty",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Oddworld: Soulstorm Enhanced Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "OKAGE: Shadow King",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Omega Quintet",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -688,8 +1933,43 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Onimusha: Dawn of Dreams",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Orcs Must Die! 3 PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Outbound",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Outcast - Second Contact",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Outlast 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Overcooked! All You Can Eat",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Overpass",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Overpass 2",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -698,8 +1978,78 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "PaRappa The Rapper 2™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Patapon 2 Remastered",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Patapon 3",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Patapon™ Remastered",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "PAW Patrol Mighty Pups Save Adventure Bay",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "PAW Patrol The Movie: Adventure City Calls",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "PAW Patrol World",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "PAW Patrol: Grand Prix",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Paw Patrol: On a Roll!",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "PBA Pro Bowling 2026",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Persona®5 Royal Ultimate Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Pile Up! Box by Box",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Pinball Heroes",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "PJ Masks: Heroes of the Night",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -718,9 +2068,64 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Poker Club PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Poppy Playtime: Chapter 1",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Primal™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Prison Architect: PlayStation®4 Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Psi-Ops: The Mindgate Conspiracy",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Pure Pool",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Pursuit Force",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Pursuit Force: Extreme Justice",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Q*Bert: Rebooted",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Quarantine Zone: The Last Check",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "R-Type Dimensions EX",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "R4 RIDGE RACER TYPE 4® PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -730,7 +2135,47 @@
     {
       "service": "PlayStation Plus",
       "title": "Rabbids®: Party of Legends",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rain World",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rainbow Moon",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Raji: An Ancient Epic",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rally Cross",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ratchet & Clank: Rift Apart",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ratchet & Clank: Size Matters",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "ReadySet Heroes",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rebel Galaxy",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -748,8 +2193,33 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Resident Evil 3 Nemesis",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Resident Evil Director’s Cut",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Resistance: Retribution",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "RESOGUN™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Resonance: A Plague Tale Legacy",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Returnal",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -760,11 +2230,66 @@
     {
       "service": "PlayStation Plus",
       "title": "Riders Republic™ PS4 & PS5",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ridge Racer 2 PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "RIDGE RACER PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rise of the Kasai™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rise of the Ronin™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rise of the Tomb Raider: 20 Year Celebration",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Riven (PS1)",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
       "title": "Roadside Research (Game Preview)",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rogue Galaxy™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rogue Lords",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Roguebook",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rugby 25",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Rune Factory 4 Special",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -783,8 +2308,68 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "S.T.A.L.K.E.R.: Legends of the Zone Trilogy PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Sackboy: A Big Adventure PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Sakuna: Of Rice and Ruin",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Salt and Sacrifice",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "SAMURAI WARRIORS 5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Sea of Thieves: 2026 Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "SEASON: A letter to the future PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Secret Agent Clank",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Serious Sam Collection",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Session: Skate Sim",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Shadow of the Beast",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "SHADOW OF THE COLOSSUS",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Shadow of the Tomb Raider",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -803,9 +2388,44 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "SILENT HILL 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Skate Story",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "SkyGunner",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Sledding Game",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Slitterhead",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Sly 2: Band of Thieves™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Sly 3: Honour Among Thieves™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Sly Raccoon™",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -823,8 +2443,18 @@
       "catalogTypes": "Monthly Games"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Snow Bros. Wonderland",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Solarpunk",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Somerville",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -838,6 +2468,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "SOULCALIBUR III PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "South Park™: The Fractured but Whole™",
       "catalogTypes": "Game Catalog"
@@ -845,7 +2480,7 @@
     {
       "service": "PlayStation Plus",
       "title": "South Park™: The Fractured but Whole™",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
     {
       "service": "Xbox Game Pass",
@@ -855,12 +2490,22 @@
     {
       "service": "PlayStation Plus",
       "title": "South Park™: The Stick of Truth™",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Space Engineers PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Space Hulk: Deathwing - Enhanced Edition",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
       "title": "Space Junkies",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
     {
       "service": "Xbox Game Pass",
@@ -878,9 +2523,44 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "STAR WARS Demolition",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STAR WARS Episode I - The Phantom Menace",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STAR WARS Rebel Assault II - The Hidden Empire",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STAR WARS The Clone Wars",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STAR WARS: Bounty Hunter (Classic, 2002)",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STAR WARS: Jedi Starfighter",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "STAR WARS™ Battlefront™ II",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Star Wars™: Racer Revenge™",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -890,7 +2570,7 @@
     {
       "service": "PlayStation Plus",
       "title": "Starlink: Battle For Atlas Digital Edition",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
     {
       "service": "Xbox Game Pass",
@@ -908,9 +2588,54 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Stick Fight: The Game",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Still Wakes the Deep",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STORY OF SEASONS: A Wonderful life",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STORY OF SEASONS: Friends of Mineral Town",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STORY OF SEASONS: Pioneers of Olive Town",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STORY OF SEASONS: Pioneers of Olive Town + Expansion Pass Set",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Stranded Deep",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "STRIDER",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Subnautica 2 (Game Preview)",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Summoner PS2 Emulation (2000)",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -923,13 +2648,68 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Super Stardust Portable",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Superball",
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Surgeon Simulator: A&E Anniversary Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Surviving the Aftermath",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Sword of the Sea",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Syberia - The World Before",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Symphonia 𝄞",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Syphon Filter",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Syphon Filter 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Syphon Filter 3",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Syphon Filter: Dark Mirror",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Syphon Filter: Logan's Shadow",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tails Noir",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -941,6 +2721,31 @@
       "service": "Xbox Game Pass",
       "title": "TCG Card Shop Simulator",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tearaway™ Unfolded",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "TEKKEN 3 PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tekken 6 PS4™ & PS5®",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "TEKKEN DARK RESURRECTION PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "TEKKEN2 PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -958,8 +2763,33 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Test Drive Unlimited Solar Crown",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tetris® Effect: Connected",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Thank Goodness You're Here!",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "The Casting of Frank Stone™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Casting of Frank Stone™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Exit 8",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -968,14 +2798,74 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "The Forgotten City",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Invincible",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "THE LAST BLADE 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Last Guardian",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Last of Us: Left Behind Stand Alone",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Last Of Us™ Remastered",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Legend of Dragoon",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The LEGO® Movie Videogame",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Lord of the Rings: Return to Moria™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Mark of Kri™",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "The Outer Worlds: Spacer's Choice Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Pedestrian",
       "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
       "title": "The Planet Crafter",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Raven Remastered",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -998,8 +2888,78 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "The Surge",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Technomancer",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "The Thaumaturge",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Thaumaturge",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Witch and the Hundred Knight: Revival Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Thief",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "This War of Mine: Final Cut",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Thrillville",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Thrillville: Off the Rails",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Thymesia",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "TIME CRISIS PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "TimeSplitters",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "TimeSplitters 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "TimeSplitters: Future Perfect",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tin Hearts",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1028,8 +2988,33 @@
       "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Tomb Raider: Anniversary PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tomb Raider: Definitive Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tomb Raider: Legend",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Tony Hawk's™ Pro Skater™ 3 + 4 - Cross-Gen Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Townsmen - A Kingdom Rebuilt",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Train Sim World® 5: Standard Edition PS4 & PS5",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1045,7 +3030,62 @@
     {
       "service": "PlayStation Plus",
       "title": "Trials Fusion™",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tricky Towers",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Trine 4: The Nightmare Prince",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "TRON RUN/r",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Tropico 5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Twisted Metal",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Twisted Metal World Tour",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Twisted Metal™ 4",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Twisted Metal™ III",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Two Point Campus",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Two Point Hospital: JUMBO Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Two Point Hospital™",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -1068,8 +3108,43 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "UNCHARTED 4: A Thief’s End",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "UNCHARTED: The Lost Legacy",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "UNCHARTED™ The Nathan Drake Collection",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Under The Waves",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Undisputed",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Until Dawn™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Until Dawn™ 2015",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "V Rising",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1078,8 +3153,23 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Vampyr",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Vapor World: Over The Mind (Game Preview)",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Venba",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Vikings - Wolves of Midgard",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1088,19 +3178,69 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "War of the Monsters",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Warhammer 40,000: Darktide",
       "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
+      "title": "Warhammer: Chaosbane",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Warhammer: Chaosbane Slayer Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "WARRIORS: Abyss",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Well Dweller",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Werewolf: The Apocalypse – Earthblood",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Werewolves Within™",
-      "catalogTypes": "Ubisoft+ Classics"
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
     {
       "service": "Xbox Game Pass",
       "title": "Where Winds Meet",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Wild Arms",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Wild Arms 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Wild Arms™ 3",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Wild Arms™ 4",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -1128,6 +3268,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Wolfenstein® II: The New Colossus™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "World of Tanks Modern Armor",
       "catalogTypes": "Game Catalog"
@@ -1143,6 +3288,41 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "World War Z",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Worms [PS1 Emulation]",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Worms Armageddon [PS1 Emulation]",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Worms Pinball [PS1 Emulation]",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Worms W.M.D",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Worms World Party [PS1 Emulation]",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "WRC Generations – The FIA WRC Official Game",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Wuthering Waves",
       "catalogTypes": "Game Catalog"
@@ -1151,7 +3331,37 @@
       "service": "PlayStation Plus",
       "title": "WWE 2K26 Standard Edition",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "XCOM® 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Yakuza: Like a Dragon PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Yet Another Zombie Defense HD",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "You Suck at Parking®",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ys IX: Monstrum Nox",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Ys VIII: Lacrimosa of DANA",
+      "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 66
+  "durationSeconds": 130
 }
