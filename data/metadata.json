@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:48:17.076Z",
+  "generatedAt": "2026-09-27T12:00:06.649Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
@@ -42,8 +42,8 @@
     },
     "Monthly Games": {
       "catalogType": "Monthly Games",
-      "totalTitles": 5,
-      "matchedTitles": 1
+      "totalTitles": 6,
+      "matchedTitles": 2
     }
   },
   "unmatchedTitles": [
@@ -3363,5 +3363,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 112
+  "durationSeconds": 126
 }
