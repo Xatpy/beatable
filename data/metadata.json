@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-27T12:00:06.649Z",
+  "generatedAt": "2026-09-29T12:49:03.827Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1210,
+  "totalCatalogCount": 1211,
   "matchedCount": 547,
   "freshMatchCount": 0,
   "cachedMatchCount": 547,
   "derivedMatchCount": 0,
-  "unmatchedCount": 663,
+  "unmatchedCount": 664,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 568,
+      "totalTitles": 569,
       "matchedTitles": 380
     },
     "playstation-plus": {
@@ -27,7 +27,7 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1034,
+      "totalTitles": 1035,
       "matchedTitles": 539
     },
     "Classics Catalog": {
@@ -1724,6 +1724,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "Minecraft Dungeons II",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "Mistfall Hunter",
       "catalogTypes": "Game Catalog"
     },
@@ -3363,5 +3368,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 126
+  "durationSeconds": 130
 }
