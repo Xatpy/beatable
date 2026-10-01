@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-29T12:49:03.827Z",
+  "generatedAt": "2026-10-01T13:08:34.340Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1211,
-  "matchedCount": 547,
+  "totalCatalogCount": 1204,
+  "matchedCount": 542,
   "freshMatchCount": 0,
-  "cachedMatchCount": 547,
+  "cachedMatchCount": 542,
   "derivedMatchCount": 0,
-  "unmatchedCount": 664,
+  "unmatchedCount": 662,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 569,
-      "matchedTitles": 380
+      "totalTitles": 561,
+      "matchedTitles": 374
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 642,
-      "matchedTitles": 167
+      "totalTitles": 643,
+      "matchedTitles": 168
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1035,
-      "matchedTitles": 539
+      "totalTitles": 1029,
+      "matchedTitles": 534
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
-      "totalTitles": 171,
+      "totalTitles": 170,
       "matchedTitles": 7
     },
     "Ubisoft+ Classics": {
@@ -739,11 +739,6 @@
     },
     {
       "service": "PlayStation Plus",
-      "title": "Disney•Pixar Buzz Lightyear of Star Command",
-      "catalogTypes": "Classics Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
       "title": "Disney•Pixar Up",
       "catalogTypes": "Classics Catalog"
     },
@@ -795,6 +790,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Dune: Awakening",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Dungeons of Hinterberg",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -2468,11 +2468,6 @@
       "catalogTypes": "Game Catalog"
     },
     {
-      "service": "Xbox Game Pass",
-      "title": "SOPA - Tale of the Stolen Potato",
-      "catalogTypes": "Game Catalog"
-    },
-    {
       "service": "PlayStation Plus",
       "title": "SOULCALIBUR III PS4 & PS5",
       "catalogTypes": "Classics Catalog"
@@ -2751,11 +2746,6 @@
       "service": "PlayStation Plus",
       "title": "TEKKEN2 PS4 & PS5",
       "catalogTypes": "Classics Catalog"
-    },
-    {
-      "service": "Xbox Game Pass",
-      "title": "Terminull Brigade™",
-      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -3368,5 +3358,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 130
+  "durationSeconds": 125
 }
