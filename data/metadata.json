@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T13:08:34.340Z",
+  "generatedAt": "2026-10-03T11:37:32.914Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1204,
-  "matchedCount": 542,
+  "totalCatalogCount": 1206,
+  "matchedCount": 544,
   "freshMatchCount": 0,
-  "cachedMatchCount": 542,
+  "cachedMatchCount": 544,
   "derivedMatchCount": 0,
   "unmatchedCount": 662,
   "serviceCounts": {
@@ -20,8 +20,8 @@
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 643,
-      "matchedTitles": 168
+      "totalTitles": 645,
+      "matchedTitles": 170
     }
   },
   "catalogTypeCounts": {
@@ -32,8 +32,8 @@
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
-      "totalTitles": 170,
-      "matchedTitles": 7
+      "totalTitles": 172,
+      "matchedTitles": 9
     },
     "Ubisoft+ Classics": {
       "catalogType": "Ubisoft+ Classics",
@@ -3358,5 +3358,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 125
+  "durationSeconds": 123
 }
