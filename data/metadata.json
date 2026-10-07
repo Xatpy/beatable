@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-05T14:31:26.047Z",
+  "generatedAt": "2026-10-07T13:17:40.659Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1206,
+  "totalCatalogCount": 1207,
   "matchedCount": 544,
   "freshMatchCount": 0,
   "cachedMatchCount": 544,
   "derivedMatchCount": 0,
-  "unmatchedCount": 662,
+  "unmatchedCount": 663,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 561,
+      "totalTitles": 562,
       "matchedTitles": 374
     },
     "playstation-plus": {
@@ -27,7 +27,7 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1029,
+      "totalTitles": 1031,
       "matchedTitles": 534
     },
     "Classics Catalog": {
@@ -1111,6 +1111,11 @@
       "service": "PlayStation Plus",
       "title": "GAROU: MARK OF THE WOLVES™",
       "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Gears of War: E-Day",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -2445,7 +2450,7 @@
     {
       "service": "PlayStation Plus",
       "title": "Sniper Elite: Resistance PS4™ & PS5™",
-      "catalogTypes": "Monthly Games"
+      "catalogTypes": "Game Catalog | Monthly Games"
     },
     {
       "service": "PlayStation Plus",
@@ -3358,5 +3363,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 105
+  "durationSeconds": 103
 }
