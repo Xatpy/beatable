@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:17:40.659Z",
+  "generatedAt": "2026-10-09T13:13:19.996Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
@@ -14,25 +14,25 @@
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 562,
+      "totalTitles": 564,
       "matchedTitles": 374
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 645,
+      "totalTitles": 643,
       "matchedTitles": 170
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1031,
+      "totalTitles": 1033,
       "matchedTitles": 534
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
-      "totalTitles": 172,
+      "totalTitles": 170,
       "matchedTitles": 9
     },
     "Ubisoft+ Classics": {
@@ -42,8 +42,8 @@
     },
     "Monthly Games": {
       "catalogType": "Monthly Games",
-      "totalTitles": 6,
-      "matchedTitles": 2
+      "totalTitles": 4,
+      "matchedTitles": 1
     }
   },
   "unmatchedTitles": [
@@ -118,14 +118,14 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Anno 1800",
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Anno 1800™ Console Edition",
       "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Anno 1800™ Console Edition - Standard",
-      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
     {
       "service": "PlayStation Plus",
@@ -471,11 +471,6 @@
       "service": "PlayStation Plus",
       "title": "Cat Quest III",
       "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Chained Echoes",
-      "catalogTypes": "Monthly Games"
     },
     {
       "service": "PlayStation Plus",
@@ -874,6 +869,11 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2　PS4 & PS5",
+      "catalogTypes": "Monthly Games"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "EARTH DEFENSE FORCE:IRON RAIN",
       "catalogTypes": "Game Catalog"
     },
@@ -885,6 +885,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Echo Generation 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Echo Weaver",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1084,6 +1089,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "Forever Ago",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "Forza Horizon 6 Standard Edition",
       "catalogTypes": "Game Catalog"
     },
@@ -1151,11 +1161,6 @@
       "service": "PlayStation Plus",
       "title": "God of War",
       "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "God of War III Remastered",
-      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -1311,6 +1316,16 @@
       "service": "PlayStation Plus",
       "title": "HUMANKIND™ PS4 & PS5",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Hunt: Showdown 1896",
+      "catalogTypes": "Monthly Games"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows",
+      "catalogTypes": "Monthly Games"
     },
     {
       "service": "PlayStation Plus",
@@ -1729,11 +1744,6 @@
     },
     {
       "service": "Xbox Game Pass",
-      "title": "Minecraft Dungeons II",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "Xbox Game Pass",
       "title": "Mistfall Hunter",
       "catalogTypes": "Game Catalog"
     },
@@ -1741,16 +1751,6 @@
       "service": "Xbox Game Pass",
       "title": "Mixtape",
       "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "MLB® The Show™ 26",
-      "catalogTypes": "Monthly Games"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "MLB® The Show™ 26 Jump Start Bundle",
-      "catalogTypes": "Monthly Games"
     },
     {
       "service": "PlayStation Plus",
@@ -1840,6 +1840,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Need for Speed™ Unbound",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Neon Abyss 2",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -2450,7 +2455,7 @@
     {
       "service": "PlayStation Plus",
       "title": "Sniper Elite: Resistance PS4™ & PS5™",
-      "catalogTypes": "Game Catalog | Monthly Games"
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -3119,11 +3124,6 @@
     },
     {
       "service": "PlayStation Plus",
-      "title": "UNCHARTED™ The Nathan Drake Collection",
-      "catalogTypes": "Classics Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
       "title": "Under The Waves",
       "catalogTypes": "Game Catalog"
     },
@@ -3363,5 +3363,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 103
+  "durationSeconds": 133
 }
