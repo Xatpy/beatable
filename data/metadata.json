@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-13T14:08:03.487Z",
+  "generatedAt": "2026-10-15T11:23:55.796Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1207,
+  "totalCatalogCount": 1211,
   "matchedCount": 544,
   "freshMatchCount": 0,
   "cachedMatchCount": 544,
   "derivedMatchCount": 0,
-  "unmatchedCount": 663,
+  "unmatchedCount": 667,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 564,
+      "totalTitles": 568,
       "matchedTitles": 374
     },
     "playstation-plus": {
@@ -27,7 +27,7 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1033,
+      "totalTitles": 1037,
       "matchedTitles": 534
     },
     "Classics Catalog": {
@@ -289,6 +289,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "Battlefield™ 6",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "Beast of Reincarnation",
       "catalogTypes": "Game Catalog"
     },
@@ -360,6 +365,11 @@
     {
       "service": "PlayStation Plus",
       "title": "Bloodborne™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Bluey's Happy Snaps",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -670,6 +680,11 @@
     {
       "service": "PlayStation Plus",
       "title": "Death end reQuest",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Deep Dish Dungeon",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -3149,6 +3164,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "Valor Mortis",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
       "catalogTypes": "Game Catalog"
     },
@@ -3363,5 +3383,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 127
+  "durationSeconds": 104
 }
