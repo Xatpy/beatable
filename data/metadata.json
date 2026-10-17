@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-15T11:23:55.796Z",
+  "generatedAt": "2026-10-17T10:38:59.150Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1211,
-  "matchedCount": 544,
+  "totalCatalogCount": 1207,
+  "matchedCount": 538,
   "freshMatchCount": 0,
-  "cachedMatchCount": 544,
+  "cachedMatchCount": 538,
   "derivedMatchCount": 0,
-  "unmatchedCount": 667,
+  "unmatchedCount": 669,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 568,
-      "matchedTitles": 374
+      "totalTitles": 561,
+      "matchedTitles": 368
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 643,
+      "totalTitles": 646,
       "matchedTitles": 170
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1037,
-      "matchedTitles": 534
+      "totalTitles": 1031,
+      "matchedTitles": 528
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
-      "totalTitles": 170,
+      "totalTitles": 172,
       "matchedTitles": 9
     },
     "Ubisoft+ Classics": {
@@ -480,6 +480,11 @@
     {
       "service": "PlayStation Plus",
       "title": "Cat Quest III",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Chained Beasts",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1176,6 +1181,11 @@
       "service": "PlayStation Plus",
       "title": "God of War",
       "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "God of War III Remastered",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -2678,11 +2688,6 @@
       "catalogTypes": "Classics Catalog"
     },
     {
-      "service": "Xbox Game Pass",
-      "title": "Superball",
-      "catalogTypes": "Game Catalog"
-    },
-    {
       "service": "PlayStation Plus",
       "title": "Surgeon Simulator: A&E Anniversary Edition",
       "catalogTypes": "Game Catalog"
@@ -2798,11 +2803,6 @@
       "catalogTypes": "Game Catalog"
     },
     {
-      "service": "Xbox Game Pass",
-      "title": "The Casting of Frank Stone™",
-      "catalogTypes": "Game Catalog"
-    },
-    {
       "service": "PlayStation Plus",
       "title": "The Casting of Frank Stone™",
       "catalogTypes": "Game Catalog"
@@ -2866,6 +2866,11 @@
       "service": "PlayStation Plus",
       "title": "The Mark of Kri™",
       "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "The Midnight Walk",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "Xbox Game Pass",
@@ -3139,6 +3144,11 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "UNCHARTED™ The Nathan Drake Collection",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Under The Waves",
       "catalogTypes": "Game Catalog"
     },
@@ -3383,5 +3393,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 104
+  "durationSeconds": 127
 }

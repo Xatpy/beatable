@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261015T112355Z",
-  "generatedAt": "2026-10-15T11:23:55.796Z",
+  "version": "20261017T103859Z",
+  "generatedAt": "2026-10-17T10:38:59.150Z",
   "games": [
     {
       "name": "War Thunder",
@@ -1639,25 +1639,6 @@
       "productUrl": ""
     },
     {
-      "name": "Clair Obscur: Expedition 33",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "94",
-      "gameplayMain": "29.1",
-      "gameplayMainExtra": "45.5",
-      "gameplayCompletionist": "67.6",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.13628.14322280443288156.27788484-2760-47f7-be0d-dd693682e016.04a10e3c-848f-424d-a431-2846f34b1a6b",
-      "hltbId": "152016",
-      "hltbName": "Clair Obscur: Expedition 33",
-      "productId": "9PPT8K6GQHRZ",
-      "productUrl": ""
-    },
-    {
       "name": "The Bard's Tale Trilogy",
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
@@ -2701,25 +2682,6 @@
       "hltbName": "The Crew 2",
       "productId": "UP0001-CUSA08600_00-THECREW2SCEA0000",
       "productUrl": "https://store.playstation.com/en-us/concept/227552"
-    },
-    {
-      "name": "Pacific Drive",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "71",
-      "gameplayMain": "21.4",
-      "gameplayMainExtra": "32.1",
-      "gameplayCompletionist": "49.2",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.30777.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.9664d48f-5494-4d80-b8a1-253008354cf2",
-      "hltbId": "113597",
-      "hltbName": "Pacific Drive",
-      "productId": "9PNKG0WBL61W",
-      "productUrl": ""
     },
     {
       "name": "The Crew® 2",
@@ -3840,25 +3802,6 @@
       "hltbId": "157123",
       "hltbName": "Like a Dragon: Pirate Yakuza in Hawaii",
       "productId": "9P1303FCXW6X",
-      "productUrl": ""
-    },
-    {
-      "name": "A Plague Tale: Requiem",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "83",
-      "gameplayMain": "17",
-      "gameplayMainExtra": "19.6",
-      "gameplayCompletionist": "27.4",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.60562.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.1de59474-dc66-4ad3-8050-ee622224a589",
-      "hltbId": "93945",
-      "hltbName": "A Plague Tale: Requiem",
-      "productId": "9ND0JVB184XL",
       "productUrl": ""
     },
     {
@@ -5154,25 +5097,6 @@
       "productUrl": ""
     },
     {
-      "name": "Crime Scene Cleaner",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "80",
-      "gameplayMain": "12.3",
-      "gameplayMainExtra": "13.8",
-      "gameplayCompletionist": "17.6",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.32740.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.80e7a185-2d8a-425a-909f-3f55bb00bdac",
-      "hltbId": "138513",
-      "hltbName": "Crime Scene Cleaner",
-      "productId": "9NGZ1M3N98P2",
-      "productUrl": ""
-    },
-    {
       "name": "Redfall",
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
@@ -6218,25 +6142,6 @@
       "productUrl": ""
     },
     {
-      "name": "Evil West",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "71",
-      "gameplayMain": "10.7",
-      "gameplayMainExtra": "13.3",
-      "gameplayCompletionist": "22.4",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.4211.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.931e36a8-9260-4fcf-833a-72600108d150",
-      "hltbId": "85970",
-      "hltbName": "Evil West",
-      "productId": "9MW581HCJPM6",
-      "productUrl": ""
-    },
-    {
       "name": "RAGE 2",
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
@@ -6515,7 +6420,7 @@
       "gameplayMain": "10",
       "gameplayMainExtra": "16.1",
       "gameplayCompletionist": "31.6",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.41220.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.0774e631-7504-4aec-9e38-3593b7df27ea",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.43306.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.4e8a3987-46b8-43db-a2fd-427ea06a3b4c",
       "hltbId": "12655",
       "hltbName": "Rayman Legends",
       "productId": "C26K4DVGR45B",
@@ -9864,25 +9769,6 @@
       "hltbName": "Wheel of Fortune",
       "productId": "UP0001-CUSA09059_00-WHEELOFFORTUNE01",
       "productUrl": "https://store.playstation.com/en-us/concept/229531"
-    },
-    {
-      "name": "Donut County",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "72",
-      "gameplayMain": "2",
-      "gameplayMainExtra": "2.1",
-      "gameplayCompletionist": "2.6",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.60906.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.06135ea0-0572-4ed3-b5a2-e0a158e3144d",
-      "hltbId": "51323",
-      "hltbName": "Donut County",
-      "productId": "9N6V2181GHLM",
-      "productUrl": ""
     },
     {
       "name": "Young Suns",
