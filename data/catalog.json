@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261019T130639Z",
-  "generatedAt": "2026-10-19T13:06:39.289Z",
+  "version": "20261021T114425Z",
+  "generatedAt": "2026-10-21T11:44:25.571Z",
   "games": [
     {
       "name": "War Thunder",
@@ -682,7 +682,7 @@
       "gameplayMain": "46.3",
       "gameplayMainExtra": "81.9",
       "gameplayCompletionist": "133.3",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.28577.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.5bbb6b0c-cc25-4abe-bf01-c00408e6e3fa",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.58815.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.a33bb192-d9d2-48fd-b7ab-9892f5ce53a9",
       "hltbId": "109101",
       "hltbName": "Zenless Zone Zero",
       "productId": "9N4X0WFZ2STM",
@@ -8135,25 +8135,6 @@
       "hltbName": "F1 25",
       "productId": "9NWPW7F19FS5",
       "productUrl": ""
-    },
-    {
-      "name": "Death Squared",
-      "service": "PlayStation Plus",
-      "serviceKey": "playstation-plus",
-      "catalogTypes": "Game Catalog",
-      "tier": "Extra/Premium",
-      "platforms": "PS4",
-      "releaseDate": "2017-03-14T00:00:00Z",
-      "streamingSupported": "false",
-      "reviewScore": "",
-      "gameplayMain": "6",
-      "gameplayMainExtra": "7",
-      "gameplayCompletionist": "9",
-      "imageUrl": "https://image.api.playstation.com/cdn/UP3490/CUSA07764_00/kDZrvTkCs430iF2EDF5yCBQf7HLMGv7j.png",
-      "hltbId": "47424",
-      "hltbName": "Death Squared",
-      "productId": "UP3490-CUSA07764_00-1111212111112112",
-      "productUrl": "https://store.playstation.com/en-us/concept/225086"
     },
     {
       "name": "NINJA GAIDEN: Ragebound",

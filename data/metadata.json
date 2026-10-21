@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-19T13:06:39.289Z",
+  "generatedAt": "2026-10-21T11:44:25.571Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1207,
-  "matchedCount": 538,
+  "totalCatalogCount": 1203,
+  "matchedCount": 537,
   "freshMatchCount": 0,
-  "cachedMatchCount": 538,
+  "cachedMatchCount": 537,
   "derivedMatchCount": 0,
-  "unmatchedCount": 669,
+  "unmatchedCount": 666,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
@@ -20,19 +20,19 @@
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 646,
-      "matchedTitles": 170
+      "totalTitles": 642,
+      "matchedTitles": 169
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1031,
-      "matchedTitles": 528
+      "totalTitles": 1025,
+      "matchedTitles": 527
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
-      "totalTitles": 172,
+      "totalTitles": 174,
       "matchedTitles": 9
     },
     "Ubisoft+ Classics": {
@@ -744,6 +744,11 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "DINO CRISIS 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "DISGAEA 5: ALLIANCE OF VENGEANCE",
       "catalogTypes": "Game Catalog"
     },
@@ -1168,11 +1173,6 @@
       "catalogTypes": "Classics Catalog"
     },
     {
-      "service": "PlayStation Plus",
-      "title": "Gloomhaven Mercenaries Edition",
-      "catalogTypes": "Game Catalog"
-    },
-    {
       "service": "Xbox Game Pass",
       "title": "GOALS",
       "catalogTypes": "Game Catalog"
@@ -1249,16 +1249,6 @@
     },
     {
       "service": "PlayStation Plus",
-      "title": "Harvest Moon: One World",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Harvest Moon®: Light of Hope Special Edition",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
       "title": "Heavy Rain",
       "catalogTypes": "Classics Catalog"
     },
@@ -1300,6 +1290,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Hogwarts Legacy Xbox One Version",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Horizon Forbidden West™",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1453,11 +1448,6 @@
       "catalogTypes": "Game Catalog"
     },
     {
-      "service": "PlayStation Plus",
-      "title": "Jurassic World Evolution 2",
-      "catalogTypes": "Game Catalog"
-    },
-    {
       "service": "Xbox Game Pass",
       "title": "Jurassic World Evolution 3",
       "catalogTypes": "Game Catalog"
@@ -1546,11 +1536,6 @@
       "service": "PlayStation Plus",
       "title": "Kurushi™ Final: Mental Blocks",
       "catalogTypes": "Classics Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Lake PS4 & PS5",
-      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -1650,6 +1635,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Mad King Redemption",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Mafia: The Old Country",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1836,6 +1826,11 @@
       "service": "PlayStation Plus",
       "title": "Mr. Driller PS4 & PS5",
       "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Mycopunk",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -2314,13 +2309,13 @@
     },
     {
       "service": "PlayStation Plus",
-      "title": "Rogue Lords",
+      "title": "Roguebook",
       "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
-      "title": "Roguebook",
-      "catalogTypes": "Game Catalog"
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "catalogTypes": "Classics Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -2425,11 +2420,6 @@
     {
       "service": "Xbox Game Pass",
       "title": "Shift At Midnight",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "SILENT HILL 2",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -3369,11 +3359,6 @@
     },
     {
       "service": "PlayStation Plus",
-      "title": "Yakuza: Like a Dragon PS4 & PS5",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
       "title": "Yet Another Zombie Defense HD",
       "catalogTypes": "Game Catalog"
     },
@@ -3393,5 +3378,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 125
+  "durationSeconds": 134
 }
