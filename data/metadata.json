@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-21T11:44:25.571Z",
+  "generatedAt": "2026-10-23T11:34:50.479Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1203,
+  "totalCatalogCount": 1204,
   "matchedCount": 537,
   "freshMatchCount": 0,
   "cachedMatchCount": 537,
   "derivedMatchCount": 0,
-  "unmatchedCount": 666,
+  "unmatchedCount": 667,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 561,
+      "totalTitles": 562,
       "matchedTitles": 368
     },
     "playstation-plus": {
@@ -27,7 +27,7 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1025,
+      "totalTitles": 1026,
       "matchedTitles": 527
     },
     "Classics Catalog": {
@@ -766,6 +766,11 @@
       "service": "PlayStation Plus",
       "title": "Disney•Pixar Wall-E",
       "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Dodo Duckie",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -3378,5 +3383,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 134
+  "durationSeconds": 129
 }

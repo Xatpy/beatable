@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261021T114425Z",
-  "generatedAt": "2026-10-21T11:44:25.571Z",
+  "version": "20261023T113450Z",
+  "generatedAt": "2026-10-23T11:34:50.479Z",
   "games": [
     {
       "name": "War Thunder",
@@ -625,7 +625,7 @@
       "gameplayMain": "47.9",
       "gameplayMainExtra": "207.4",
       "gameplayCompletionist": "606.9",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.8222.69742768075920623.827baea2-0e15-46be-a422-347ee95ca314.2f21aa22-3b82-4e24-b84f-5fdebd9b9311",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.54171.69742768075920623.908ff79c-313a-4bed-acc5-deeed45673cd.6ba98023-1612-41f9-a528-5935be4c3704",
       "hltbId": "17596",
       "hltbName": "The Elder Scrolls Online",
       "productId": "BRKX5CRMRTC2",
@@ -6185,9 +6185,9 @@
       "serviceKey": "playstation-plus",
       "catalogTypes": "Game Catalog",
       "tier": "Extra/Premium",
-      "platforms": "PS5",
-      "releaseDate": "2023-01-24T14:00:00Z",
-      "streamingSupported": "true",
+      "platforms": "PS4",
+      "releaseDate": "2021-09-19T04:00:00Z",
+      "streamingSupported": "false",
       "reviewScore": "73",
       "gameplayMain": "10.4",
       "gameplayMainExtra": "19.2",
@@ -6195,7 +6195,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1609/H7gbJJRlxx0gh6L40A0kkZ5x.png",
       "hltbId": "98252",
       "hltbName": "World War Z: Aftermath",
-      "productId": "UP6856-PPSA05424_00-WWZGAME000000PS5",
+      "productId": "UP2746-CUSA14046_00-WWZAFTMTBUN000US",
       "productUrl": "https://store.playstation.com/en-us/concept/230658"
     },
     {
