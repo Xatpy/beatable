@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-25T11:21:20.420Z",
+  "generatedAt": "2026-10-27T12:06:31.596Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1204,
+  "totalCatalogCount": 1205,
   "matchedCount": 537,
   "freshMatchCount": 0,
   "cachedMatchCount": 537,
   "derivedMatchCount": 0,
-  "unmatchedCount": 667,
+  "unmatchedCount": 668,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 562,
+      "totalTitles": 563,
       "matchedTitles": 368
     },
     "playstation-plus": {
@@ -27,7 +27,7 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1026,
+      "totalTitles": 1027,
       "matchedTitles": 527
     },
     "Classics Catalog": {
@@ -2370,6 +2370,11 @@
     {
       "service": "PlayStation Plus",
       "title": "SAMURAI WARRIORS 5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Scramble Knights Online (Game Preview)",
       "catalogTypes": "Game Catalog"
     },
     {
