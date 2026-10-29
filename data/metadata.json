@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-27T12:06:31.596Z",
+  "generatedAt": "2026-10-29T12:56:22.614Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1205,
+  "totalCatalogCount": 1210,
   "matchedCount": 537,
   "freshMatchCount": 0,
   "cachedMatchCount": 537,
   "derivedMatchCount": 0,
-  "unmatchedCount": 668,
+  "unmatchedCount": 673,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 563,
+      "totalTitles": 565,
       "matchedTitles": 368
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 642,
+      "totalTitles": 645,
       "matchedTitles": 169
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1027,
+      "totalTitles": 1032,
       "matchedTitles": 527
     },
     "Classics Catalog": {
@@ -1063,6 +1063,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "Xbox Game Pass",
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "PlayStation Plus",
       "title": "FINAL FANTASY VII REMAKE INTERGRADE",
       "catalogTypes": "Game Catalog"
@@ -1779,6 +1784,11 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "Monster Energy Supercross 25 - The Official Video Game",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Monster Jam™ Showdown PS4 & PS5",
       "catalogTypes": "Game Catalog"
     },
@@ -2115,6 +2125,11 @@
     {
       "service": "PlayStation Plus",
       "title": "Poppy Playtime: Chapter 1",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Poppy Playtime: Chapter 2",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -2743,6 +2758,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Tales of ARISE - Beyond the Dawn Edition PS4 & PS5",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Tamashika",
       "catalogTypes": "Game Catalog"
@@ -2905,6 +2925,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "The Royal Writ",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "The Séance of Blake Manor",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -3388,5 +3413,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 122
+  "durationSeconds": 106
 }
