@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-29T12:56:22.614Z",
+  "generatedAt": "2026-10-31T12:20:38.714Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
   "totalCatalogCount": 1210,
-  "matchedCount": 537,
+  "matchedCount": 535,
   "freshMatchCount": 0,
-  "cachedMatchCount": 537,
+  "cachedMatchCount": 535,
   "derivedMatchCount": 0,
-  "unmatchedCount": 673,
+  "unmatchedCount": 675,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 565,
+      "totalTitles": 568,
       "matchedTitles": 368
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 645,
-      "matchedTitles": 169
+      "totalTitles": 642,
+      "matchedTitles": 167
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1032,
+      "totalTitles": 1035,
       "matchedTitles": 527
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
-      "totalTitles": 174,
-      "matchedTitles": 9
+      "totalTitles": 171,
+      "matchedTitles": 7
     },
     "Ubisoft+ Classics": {
       "catalogType": "Ubisoft+ Classics",
@@ -1753,11 +1753,6 @@
       "catalogTypes": "Game Catalog"
     },
     {
-      "service": "PlayStation Plus",
-      "title": "Metro Redux",
-      "catalogTypes": "Classics Catalog"
-    },
-    {
       "service": "Xbox Game Pass",
       "title": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
       "catalogTypes": "Game Catalog"
@@ -1830,6 +1825,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "MOTORSLICE",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Mouthwashing",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -2115,6 +2115,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Plants vs. Zombies™ Garden Warfare 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Plants vs. Zombies™: Replanted",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -2808,6 +2813,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "Xbox Game Pass",
+      "title": "Terrible Lizards",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "PlayStation Plus",
       "title": "Test Drive Unlimited Solar Crown",
       "catalogTypes": "Game Catalog"
@@ -3413,5 +3423,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 106
+  "durationSeconds": 104
 }

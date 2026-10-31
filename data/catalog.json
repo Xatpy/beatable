@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261029T125622Z",
-  "generatedAt": "2026-10-29T12:56:22.614Z",
+  "version": "20261031T122038Z",
+  "generatedAt": "2026-10-31T12:20:38.714Z",
   "games": [
     {
       "name": "War Thunder",
@@ -6332,25 +6332,6 @@
       "productUrl": "https://store.playstation.com/en-us/concept/233993"
     },
     {
-      "name": "Metro: Last Light Redux",
-      "service": "PlayStation Plus",
-      "serviceKey": "playstation-plus",
-      "catalogTypes": "Classics Catalog",
-      "tier": "Premium",
-      "platforms": "PS4",
-      "releaseDate": "2014-08-26T04:00:00Z",
-      "streamingSupported": "false",
-      "reviewScore": "",
-      "gameplayMain": "10",
-      "gameplayMainExtra": "13.5",
-      "gameplayCompletionist": "26",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/xRBuhxOu8IbVAV32S8Ow9Eiv.png",
-      "hltbId": "20883",
-      "hltbName": "Metro Last Light Redux",
-      "productId": "UP2047-CUSA00624_00-MLLREDUXDIGITAL1",
-      "productUrl": "https://store.playstation.com/en-us/concept/226459"
-    },
-    {
       "name": "Rayman® Legends",
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
@@ -6881,25 +6862,6 @@
       "hltbName": "Gears of War",
       "productId": "BQT21VXFS52F",
       "productUrl": ""
-    },
-    {
-      "name": "Metro 2033 Redux",
-      "service": "PlayStation Plus",
-      "serviceKey": "playstation-plus",
-      "catalogTypes": "Classics Catalog",
-      "tier": "Premium",
-      "platforms": "PS4",
-      "releaseDate": "2014-08-26T04:00:00Z",
-      "streamingSupported": "false",
-      "reviewScore": "",
-      "gameplayMain": "9",
-      "gameplayMainExtra": "11.5",
-      "gameplayCompletionist": "22.5",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/0XmesVquzTiWkjPy0vJlxrzZ.png",
-      "hltbId": "20737",
-      "hltbName": "Metro 2033 Redux",
-      "productId": "UP2047-CUSA00623_00-M33REDUXDIGITAL1",
-      "productUrl": "https://store.playstation.com/en-us/concept/202807"
     },
     {
       "name": "Halo Wars: Definitive Edition",
