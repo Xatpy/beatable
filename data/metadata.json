@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-31T12:20:38.714Z",
+  "generatedAt": "2026-11-01T13:17:14.192Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1210,
-  "matchedCount": 535,
+  "totalCatalogCount": 1202,
+  "matchedCount": 530,
   "freshMatchCount": 0,
-  "cachedMatchCount": 535,
+  "cachedMatchCount": 530,
   "derivedMatchCount": 0,
-  "unmatchedCount": 675,
+  "unmatchedCount": 672,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 568,
-      "matchedTitles": 368
+      "totalTitles": 560,
+      "matchedTitles": 363
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
@@ -27,8 +27,8 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1035,
-      "matchedTitles": 527
+      "totalTitles": 1027,
+      "matchedTitles": 522
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
@@ -670,11 +670,6 @@
     {
       "service": "Xbox Game Pass",
       "title": "Dead Space™ 3",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "Xbox Game Pass",
-      "title": "Dead Static Drive",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1585,11 +1580,6 @@
     {
       "service": "PlayStation Plus",
       "title": "LEGO® NINJAGO® Movie Video Game",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "Xbox Game Pass",
-      "title": "LEGO® Star Wars™: The Skywalker Saga",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -3314,11 +3304,6 @@
     },
     {
       "service": "Xbox Game Pass",
-      "title": "Wildgate",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "Xbox Game Pass",
       "title": "Winds of Arcana: Ruination",
       "catalogTypes": "Game Catalog"
     },
@@ -3423,5 +3408,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 104
+  "durationSeconds": 125
 }

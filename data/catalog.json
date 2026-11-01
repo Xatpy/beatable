@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261031T122038Z",
-  "generatedAt": "2026-10-31T12:20:38.714Z",
+  "version": "20261101T131714Z",
+  "generatedAt": "2026-11-01T13:17:14.192Z",
   "games": [
     {
       "name": "War Thunder",
@@ -727,25 +727,6 @@
       "productUrl": ""
     },
     {
-      "name": "Deep Rock Galactic",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "80",
-      "gameplayMain": "44.6",
-      "gameplayMainExtra": "138.5",
-      "gameplayCompletionist": "493.6",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.1444.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.8e099efd-082f-4d41-8941-17309ee91c92",
-      "hltbId": "47169",
-      "hltbName": "Deep Rock Galactic",
-      "productId": "9NHFVWX1V7QJ",
-      "productUrl": ""
-    },
-    {
       "name": "The Elder Scrolls III: Morrowind",
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
@@ -819,25 +800,6 @@
       "hltbId": "69339",
       "hltbName": "The Bard's Tale IV: Director's Cut",
       "productId": "C2B4T86TXLRS",
-      "productUrl": ""
-    },
-    {
-      "name": "Wartales",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "70",
-      "gameplayMain": "43.7",
-      "gameplayMainExtra": "76.1",
-      "gameplayCompletionist": "146.6",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.57743.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.80dc7cd7-d40f-455f-9676-f0cf0946ae88",
-      "hltbId": "93986",
-      "hltbName": "Wartales",
-      "productId": "9NWQ686JB33G",
       "productUrl": ""
     },
     {
@@ -8479,44 +8441,6 @@
       "productUrl": ""
     },
     {
-      "name": "Day of the Tentacle Remastered",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "78",
-      "gameplayMain": "5.2",
-      "gameplayMainExtra": "5.8",
-      "gameplayCompletionist": "6.4",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.18669.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.27089192-fc55-4fcc-910d-aebc79555211",
-      "hltbId": "2285",
-      "hltbName": "Day of the Tentacle",
-      "productId": "9NKK6CX54183",
-      "productUrl": ""
-    },
-    {
-      "name": "Lara Croft and the Temple of Osiris",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "68",
-      "gameplayMain": "5.2",
-      "gameplayMainExtra": "7",
-      "gameplayCompletionist": "13.7",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.45852.66406861093311956.5a3a6cc5-ae0d-478d-aa71-eeec71b3768a.ab674b22-40af-41d9-9c2b-68aa18f705d5",
-      "hltbId": "21699",
-      "hltbName": "Lara Croft and the Temple of Osiris",
-      "productId": "C3553MB4P5TT",
-      "productUrl": ""
-    },
-    {
       "name": "Unravel Two",
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
@@ -9103,25 +9027,6 @@
       "hltbId": "164496",
       "hltbName": "Drop Duchy",
       "productId": "9NXVPTB0FXSZ",
-      "productUrl": ""
-    },
-    {
-      "name": "Full Throttle Remastered",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "72",
-      "gameplayMain": "4",
-      "gameplayMainExtra": "4.5",
-      "gameplayCompletionist": "4.6",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.7896.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.0bab6c1b-43ce-423d-86ae-ced85f951431",
-      "hltbId": "44400",
-      "hltbName": "Full Throttle Remastered",
-      "productId": "9P3ZRGNQVC7D",
       "productUrl": ""
     },
     {
