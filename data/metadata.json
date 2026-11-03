@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:17:14.192Z",
+  "generatedAt": "2026-11-03T14:07:02.685Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
@@ -1213,6 +1213,11 @@
       "catalogTypes": "Classics Catalog"
     },
     {
+      "service": "Xbox Game Pass",
+      "title": "GRAVHOUNDS (Game Preview)",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "PlayStation Plus",
       "title": "Gravity Crash Portable",
       "catalogTypes": "Classics Catalog"
@@ -1485,11 +1490,6 @@
     {
       "service": "PlayStation Plus",
       "title": "Killer Frequency",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "Xbox Game Pass",
-      "title": "Killer Instinct 2 Classic",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -3408,5 +3408,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 125
+  "durationSeconds": 124
 }
