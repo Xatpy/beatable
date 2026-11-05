@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-11-03T14:07:02.685Z",
+  "generatedAt": "2026-11-05T14:35:10.997Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1202,
-  "matchedCount": 530,
+  "totalCatalogCount": 1206,
+  "matchedCount": 531,
   "freshMatchCount": 0,
-  "cachedMatchCount": 530,
+  "cachedMatchCount": 531,
   "derivedMatchCount": 0,
-  "unmatchedCount": 672,
+  "unmatchedCount": 675,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 560,
-      "matchedTitles": 363
+      "totalTitles": 562,
+      "matchedTitles": 362
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 642,
-      "matchedTitles": 167
+      "totalTitles": 644,
+      "matchedTitles": 169
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1027,
-      "matchedTitles": 522
+      "totalTitles": 1029,
+      "matchedTitles": 520
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
-      "totalTitles": 171,
-      "matchedTitles": 7
+      "totalTitles": 174,
+      "matchedTitles": 9
     },
     "Ubisoft+ Classics": {
       "catalogType": "Ubisoft+ Classics",
       "totalTitles": 69,
-      "matchedTitles": 53
+      "matchedTitles": 52
     },
     "Monthly Games": {
       "catalogType": "Monthly Games",
-      "totalTitles": 4,
-      "matchedTitles": 1
+      "totalTitles": 3,
+      "matchedTitles": 2
     }
   },
   "unmatchedTitles": [
@@ -894,11 +894,6 @@
     },
     {
       "service": "PlayStation Plus",
-      "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2　PS4 & PS5",
-      "catalogTypes": "Monthly Games"
-    },
-    {
-      "service": "PlayStation Plus",
       "title": "EARTH DEFENSE FORCE:IRON RAIN",
       "catalogTypes": "Game Catalog"
     },
@@ -1019,6 +1014,16 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "FARCRY 3 Classic Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "FARCRY 3 Classic Edition",
+      "catalogTypes": "Game Catalog | Ubisoft+ Classics"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "FARCRY 6",
       "catalogTypes": "Game Catalog"
     },
@@ -1070,6 +1075,11 @@
     {
       "service": "PlayStation Plus",
       "title": "FINAL FANTASY XVI",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Firefighting Simulator: Ignite",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1346,16 +1356,6 @@
       "service": "PlayStation Plus",
       "title": "HUMANKIND™ PS4 & PS5",
       "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Hunt: Showdown 1896",
-      "catalogTypes": "Monthly Games"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows",
-      "catalogTypes": "Monthly Games"
     },
     {
       "service": "PlayStation Plus",
@@ -1743,6 +1743,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "METRO Redux",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
       "catalogTypes": "Game Catalog"
@@ -2086,6 +2091,11 @@
       "service": "PlayStation Plus",
       "title": "Pinball Heroes",
       "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "PIT OF GOBLIN",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -3039,6 +3049,11 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "Tomb Raider IV-VI Remastered PS4 & PS5",
+      "catalogTypes": "Monthly Games"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Tomb Raider: Anniversary PS4 & PS5",
       "catalogTypes": "Classics Catalog"
     },
@@ -3408,5 +3423,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 124
+  "durationSeconds": 128
 }
