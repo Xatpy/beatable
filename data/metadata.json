@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-05T14:35:10.997Z",
+  "generatedAt": "2026-11-07T12:56:18.985Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1206,
+  "totalCatalogCount": 1210,
   "matchedCount": 531,
   "freshMatchCount": 0,
   "cachedMatchCount": 531,
   "derivedMatchCount": 0,
-  "unmatchedCount": 675,
+  "unmatchedCount": 679,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 562,
+      "totalTitles": 566,
       "matchedTitles": 362
     },
     "playstation-plus": {
@@ -27,7 +27,7 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1029,
+      "totalTitles": 1033,
       "matchedTitles": 520
     },
     "Classics Catalog": {
@@ -974,6 +974,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "Escape Academy 2: Back 2 School",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "Escape Simulator",
       "catalogTypes": "Game Catalog"
     },
@@ -1840,6 +1845,16 @@
     {
       "service": "PlayStation Plus",
       "title": "Mycopunk",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "MySims™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "MySims™ Kingdom",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -3248,6 +3263,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "Xbox Game Pass",
+      "title": "VOID/BREAKER",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "PlayStation Plus",
       "title": "War of the Monsters",
       "catalogTypes": "Classics Catalog"
@@ -3423,5 +3443,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 128
+  "durationSeconds": 125
 }
