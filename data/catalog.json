@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261109T161010Z",
-  "generatedAt": "2026-11-09T16:10:10.157Z",
+  "version": "20261111T141427Z",
+  "generatedAt": "2026-11-11T14:14:27.759Z",
   "games": [
     {
       "name": "War Thunder",
@@ -17,7 +17,7 @@
       "gameplayMain": "541",
       "gameplayMainExtra": "1630.4",
       "gameplayCompletionist": "4627.7",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.28781.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.aa326692-8613-4caa-a624-b1e99e495e63",
       "hltbId": "15234",
       "hltbName": "War Thunder",
       "productId": "BX1DTCBD1HXJ",

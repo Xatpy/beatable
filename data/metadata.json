@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-09T16:10:10.157Z",
+  "generatedAt": "2026-11-11T14:14:27.759Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1210,
+  "totalCatalogCount": 1213,
   "matchedCount": 531,
   "freshMatchCount": 0,
   "cachedMatchCount": 531,
   "derivedMatchCount": 0,
-  "unmatchedCount": 679,
+  "unmatchedCount": 682,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 566,
+      "totalTitles": 569,
       "matchedTitles": 362
     },
     "playstation-plus": {
@@ -27,7 +27,7 @@
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1033,
+      "totalTitles": 1036,
       "matchedTitles": 520
     },
     "Classics Catalog": {
@@ -1118,13 +1118,13 @@
       "catalogTypes": "Game Catalog"
     },
     {
-      "service": "Xbox Game Pass",
+      "service": "PlayStation Plus",
       "title": "Football Manager 26 Console",
       "catalogTypes": "Game Catalog"
     },
     {
-      "service": "PlayStation Plus",
-      "title": "Football Manager 26 Console",
+      "service": "Xbox Game Pass",
+      "title": "Football Manager 27 Console",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -2789,6 +2789,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "TANUKI: Pon's Summer",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "TCG Card Shop Simulator",
       "catalogTypes": "Game Catalog"
     },
@@ -3006,6 +3011,11 @@
       "service": "PlayStation Plus",
       "title": "Thrillville: Off the Rails",
       "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Thronefall",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -3278,6 +3288,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "Xbox Game Pass",
+      "title": "Warhammer Survivors",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "PlayStation Plus",
       "title": "Warhammer: Chaosbane",
       "catalogTypes": "Game Catalog"
@@ -3443,5 +3458,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 132
+  "durationSeconds": 134
 }
