@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-11T14:14:27.759Z",
+  "generatedAt": "2026-11-13T14:31:33.167Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1213,
-  "matchedCount": 531,
+  "totalCatalogCount": 1217,
+  "matchedCount": 529,
   "freshMatchCount": 0,
-  "cachedMatchCount": 531,
+  "cachedMatchCount": 529,
   "derivedMatchCount": 0,
-  "unmatchedCount": 682,
+  "unmatchedCount": 688,
   "serviceCounts": {
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 569,
-      "matchedTitles": 362
+      "totalTitles": 573,
+      "matchedTitles": 361
     },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
       "totalTitles": 644,
-      "matchedTitles": 169
+      "matchedTitles": 168
     }
   },
   "catalogTypeCounts": {
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1036,
-      "matchedTitles": 520
+      "totalTitles": 1040,
+      "matchedTitles": 518
     },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
@@ -1118,11 +1118,6 @@
       "catalogTypes": "Game Catalog"
     },
     {
-      "service": "PlayStation Plus",
-      "title": "Football Manager 26 Console",
-      "catalogTypes": "Game Catalog"
-    },
-    {
       "service": "Xbox Game Pass",
       "title": "Football Manager 27 Console",
       "catalogTypes": "Game Catalog"
@@ -1135,6 +1130,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Forever Ago",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Fortnite",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1213,6 +1213,11 @@
       "catalogTypes": "Classics Catalog"
     },
     {
+      "service": "Xbox Game Pass",
+      "title": "Grabbed by the Ghoulies™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "PlayStation Plus",
       "title": "Grand Ages: Medieval",
       "catalogTypes": "Game Catalog"
@@ -1288,6 +1293,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "Hell Let Loose",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Hellblade II: Senua's Saga",
       "catalogTypes": "Game Catalog"
@@ -1315,6 +1325,11 @@
     {
       "service": "Xbox Game Pass",
       "title": "Hogwarts Legacy Xbox One Version",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Hope in the City",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1446,6 +1461,11 @@
       "service": "PlayStation Plus",
       "title": "Jet Rider 2",
       "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "John Carpenter's Toxic Commando",
+      "catalogTypes": "Game Catalog"
     },
     {
       "service": "PlayStation Plus",
@@ -3393,6 +3413,16 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "Xbox Game Pass",
+      "title": "World War Z: Year 1 Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "World War Z: Year 1 Edition",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "PlayStation Plus",
       "title": "Worms [PS1 Emulation]",
       "catalogTypes": "Classics Catalog"
@@ -3458,5 +3488,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 134
+  "durationSeconds": 115
 }

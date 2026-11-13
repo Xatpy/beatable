@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261111T141427Z",
-  "generatedAt": "2026-11-11T14:14:27.759Z",
+  "version": "20261113T143133Z",
+  "generatedAt": "2026-11-13T14:31:33.167Z",
   "games": [
     {
       "name": "War Thunder",
@@ -6158,44 +6158,6 @@
       "hltbId": "58031",
       "hltbName": "Rage 2",
       "productId": "C2DCJ95ZXBMS",
-      "productUrl": ""
-    },
-    {
-      "name": "World War Z: Aftermath",
-      "service": "PlayStation Plus",
-      "serviceKey": "playstation-plus",
-      "catalogTypes": "Game Catalog",
-      "tier": "Extra/Premium",
-      "platforms": "PS4",
-      "releaseDate": "2021-09-19T04:00:00Z",
-      "streamingSupported": "false",
-      "reviewScore": "73",
-      "gameplayMain": "10.4",
-      "gameplayMainExtra": "19.2",
-      "gameplayCompletionist": "72.4",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1609/H7gbJJRlxx0gh6L40A0kkZ5x.png",
-      "hltbId": "98252",
-      "hltbName": "World War Z: Aftermath",
-      "productId": "UP2746-CUSA14046_00-WWZAFTMTBUN000US",
-      "productUrl": "https://store.playstation.com/en-us/concept/230658"
-    },
-    {
-      "name": "World War Z: Aftermath",
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "catalogTypes": "Game Catalog",
-      "tier": "Ultimate/PC/Console",
-      "platforms": "PC | Xbox",
-      "releaseDate": "",
-      "streamingSupported": "",
-      "reviewScore": "73",
-      "gameplayMain": "10.4",
-      "gameplayMainExtra": "19.2",
-      "gameplayCompletionist": "72.4",
-      "imageUrl": "https://store-images.s-microsoft.com/image/apps.17991.14315814591543581.e259272c-6394-43a0-9fcb-744c0a35683f.3ec89289-214c-4706-b1b6-d232c9630952",
-      "hltbId": "98252",
-      "hltbName": "World War Z: Aftermath",
-      "productId": "9PLCL2VB2SC0",
       "productUrl": ""
     },
     {
