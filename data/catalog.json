@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261113T143133Z",
-  "generatedAt": "2026-11-13T14:31:33.167Z",
+  "version": "20261115T135416Z",
+  "generatedAt": "2026-11-15T13:54:16.018Z",
   "games": [
     {
       "name": "War Thunder",
@@ -3171,7 +3171,7 @@
       "gameplayMain": "18.9",
       "gameplayMainExtra": "24.2",
       "gameplayCompletionist": "35.6",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0616/83415751927d95046612da39ab5f997a0416087b402220fc.png",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1322/ed38f43e59207b000be12dd171ef864936a85d323b736a8a.png",
       "hltbId": "169298",
       "hltbName": "BALL x PIT",
       "productId": "UP3643-PPSA31872_00-0512776704708419",
