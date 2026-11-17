@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-11-15T13:54:16.018Z",
+  "generatedAt": "2026-11-17T15:57:20.980Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1217,
-  "matchedCount": 529,
+  "totalCatalogCount": 1206,
+  "matchedCount": 518,
   "freshMatchCount": 0,
-  "cachedMatchCount": 529,
+  "cachedMatchCount": 518,
   "derivedMatchCount": 0,
   "unmatchedCount": 688,
   "serviceCounts": {
-    "xbox-game-pass": {
-      "service": "Xbox Game Pass",
-      "serviceKey": "xbox-game-pass",
-      "totalTitles": 573,
-      "matchedTitles": 361
-    },
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
       "totalTitles": 644,
       "matchedTitles": 168
+    },
+    "xbox-game-pass": {
+      "service": "Xbox Game Pass",
+      "serviceKey": "xbox-game-pass",
+      "totalTitles": 562,
+      "matchedTitles": 350
     }
   },
   "catalogTypeCounts": {
-    "Game Catalog": {
-      "catalogType": "Game Catalog",
-      "totalTitles": 1040,
-      "matchedTitles": 518
-    },
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
       "totalTitles": 174,
       "matchedTitles": 9
+    },
+    "Game Catalog": {
+      "catalogType": "Game Catalog",
+      "totalTitles": 1029,
+      "matchedTitles": 507
     },
     "Ubisoft+ Classics": {
       "catalogType": "Ubisoft+ Classics",
@@ -270,11 +270,6 @@
     {
       "service": "PlayStation Plus",
       "title": "Bang-On Balls: Chronicles",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "Xbox Game Pass",
-      "title": "Barbie™ Horse Trails",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -2109,6 +2104,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "PAW Patrol™: Dino World",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
       "title": "PBA Pro Bowling 2026",
       "catalogTypes": "Game Catalog"
     },
@@ -3488,5 +3488,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 113
+  "durationSeconds": 135
 }
