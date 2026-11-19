@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-17T15:57:20.980Z",
+  "generatedAt": "2026-11-19T15:42:08.115Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1206,
-  "matchedCount": 518,
+  "totalCatalogCount": 1202,
+  "matchedCount": 515,
   "freshMatchCount": 0,
-  "cachedMatchCount": 518,
+  "cachedMatchCount": 515,
   "derivedMatchCount": 0,
-  "unmatchedCount": 688,
+  "unmatchedCount": 687,
   "serviceCounts": {
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 644,
-      "matchedTitles": 168
+      "totalTitles": 640,
+      "matchedTitles": 165
     },
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
@@ -27,13 +27,13 @@
   "catalogTypeCounts": {
     "Classics Catalog": {
       "catalogType": "Classics Catalog",
-      "totalTitles": 174,
+      "totalTitles": 176,
       "matchedTitles": 9
     },
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1029,
-      "matchedTitles": 507
+      "totalTitles": 1023,
+      "matchedTitles": 504
     },
     "Ubisoft+ Classics": {
       "catalogType": "Ubisoft+ Classics",
@@ -240,6 +240,11 @@
     {
       "service": "PlayStation Plus",
       "title": "Atlas Fallen: Reign of Sand",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "Atomfall PS4™ & PS5™",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -578,11 +583,6 @@
       "catalogTypes": "Game Catalog"
     },
     {
-      "service": "PlayStation Plus",
-      "title": "Cricket 24",
-      "catalogTypes": "Game Catalog"
-    },
-    {
       "service": "Xbox Game Pass",
       "title": "Cricket 26 - The Official Game of the Ashes",
       "catalogTypes": "Game Catalog"
@@ -675,6 +675,11 @@
     {
       "service": "PlayStation Plus",
       "title": "Death end reQuest",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
+      "title": "DEATH STRANDING 2: ON THE BEACH",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -784,6 +789,11 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "DRAGON QUEST III HD-2D Remake",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Dragon Star Varnir",
       "catalogTypes": "Game Catalog"
     },
@@ -875,11 +885,6 @@
     {
       "service": "Xbox Game Pass",
       "title": "EA SPORTS™ WRC",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Earth Defense Force 4.1: The Shadow of New Despair",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1143,6 +1148,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "FREEDOM WARS Remastered PS4 & PS5",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "Frog Sqwad",
       "catalogTypes": "Game Catalog"
@@ -1215,11 +1225,6 @@
     {
       "service": "PlayStation Plus",
       "title": "Grand Ages: Medieval",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Grand Theft Auto V (PS4™ & PS5™)",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -1785,11 +1790,6 @@
     {
       "service": "Xbox Game Pass",
       "title": "Mixtape",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Monster Boy and the Cursed Kingdom",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -2559,6 +2559,11 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "Soul Reaver 2",
+      "catalogTypes": "Classics Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "SOULCALIBUR III PS4 & PS5",
       "catalogTypes": "Classics Catalog"
     },
@@ -2865,11 +2870,6 @@
     {
       "service": "PlayStation Plus",
       "title": "Tetris® Effect: Connected",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
-      "title": "Thank Goodness You're Here!",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -3469,11 +3469,6 @@
     },
     {
       "service": "PlayStation Plus",
-      "title": "Yet Another Zombie Defense HD",
-      "catalogTypes": "Game Catalog"
-    },
-    {
-      "service": "PlayStation Plus",
       "title": "You Suck at Parking®",
       "catalogTypes": "Game Catalog"
     },
@@ -3488,5 +3483,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 135
+  "durationSeconds": 128
 }
