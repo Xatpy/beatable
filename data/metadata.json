@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-11-23T18:00:23.538Z",
+  "generatedAt": "2026-11-25T17:09:20.085Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1202,
-  "matchedCount": 515,
+  "totalCatalogCount": 1207,
+  "matchedCount": 516,
   "freshMatchCount": 0,
-  "cachedMatchCount": 515,
+  "cachedMatchCount": 516,
   "derivedMatchCount": 0,
-  "unmatchedCount": 687,
+  "unmatchedCount": 691,
   "serviceCounts": {
     "playstation-plus": {
       "service": "PlayStation Plus",
       "serviceKey": "playstation-plus",
-      "totalTitles": 640,
-      "matchedTitles": 165
+      "totalTitles": 644,
+      "matchedTitles": 166
     },
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 562,
+      "totalTitles": 563,
       "matchedTitles": 350
     }
   },
@@ -32,8 +32,8 @@
     },
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1023,
-      "matchedTitles": 504
+      "totalTitles": 1028,
+      "matchedTitles": 505
     },
     "Ubisoft+ Classics": {
       "catalogType": "Ubisoft+ Classics",
@@ -584,6 +584,11 @@
     },
     {
       "service": "Xbox Game Pass",
+      "title": "Cricket 26 - The Official Game of the Ashes",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Cricket 26 - The Official Game of the Ashes",
       "catalogTypes": "Game Catalog"
     },
@@ -1838,6 +1843,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "PlayStation Plus",
+      "title": "MotoGP™26",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "Xbox Game Pass",
       "title": "MOTORSLICE",
       "catalogTypes": "Game Catalog"
@@ -2538,6 +2548,11 @@
       "catalogTypes": "Game Catalog"
     },
     {
+      "service": "Xbox Game Pass",
+      "title": "Sniper Ghost Warrior Contracts 2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
       "service": "PlayStation Plus",
       "title": "Snow Bros. Wonderland",
       "catalogTypes": "Game Catalog"
@@ -3139,6 +3154,11 @@
     },
     {
       "service": "PlayStation Plus",
+      "title": "Trepang2",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "PlayStation Plus",
       "title": "Trials Fusion™",
       "catalogTypes": "Game Catalog | Ubisoft+ Classics"
     },
@@ -3483,5 +3503,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 122
+  "durationSeconds": 130
 }

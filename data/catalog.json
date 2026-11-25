@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "Beatable",
-  "version": "20261123T180023Z",
-  "generatedAt": "2026-11-23T18:00:23.538Z",
+  "version": "20261125T170920Z",
+  "generatedAt": "2026-11-25T17:09:20.085Z",
   "games": [
     {
       "name": "War Thunder",
@@ -3651,6 +3651,25 @@
       "hltbName": "Assassin's Creed: Unity",
       "productId": "BRQH27C9RGXS",
       "productUrl": ""
+    },
+    {
+      "name": "Like a Dragon: Pirate Yakuza in Hawaii PS4 & PS5",
+      "service": "PlayStation Plus",
+      "serviceKey": "playstation-plus",
+      "catalogTypes": "Game Catalog",
+      "tier": "Extra/Premium",
+      "platforms": "PS5 | PS4",
+      "releaseDate": "2025-02-21T05:00:00Z",
+      "streamingSupported": "true",
+      "reviewScore": "80",
+      "gameplayMain": "17.1",
+      "gameplayMainExtra": "32.5",
+      "gameplayCompletionist": "43.6",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/5cbfb4502807fef739169f7e9bdd0cd615d7a86ce4e6af82.png",
+      "hltbId": "157123",
+      "hltbName": "Like a Dragon: Pirate Yakuza in Hawaii",
+      "productId": "JP0177-PPSA24478_00-MAINGAME00000000",
+      "productUrl": "https://store.playstation.com/en-us/concept/10011704"
     },
     {
       "name": "Banjo-Tooie",
