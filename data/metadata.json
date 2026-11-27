@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-25T17:09:20.085Z",
+  "generatedAt": "2026-11-27T16:35:18.652Z",
   "market": "US",
   "language": "en-us",
   "playstationLocale": "en-us",
   "hltbLiveEnabled": true,
-  "totalCatalogCount": 1207,
+  "totalCatalogCount": 1208,
   "matchedCount": 516,
   "freshMatchCount": 0,
   "cachedMatchCount": 516,
   "derivedMatchCount": 0,
-  "unmatchedCount": 691,
+  "unmatchedCount": 692,
   "serviceCounts": {
     "playstation-plus": {
       "service": "PlayStation Plus",
@@ -20,7 +20,7 @@
     "xbox-game-pass": {
       "service": "Xbox Game Pass",
       "serviceKey": "xbox-game-pass",
-      "totalTitles": 563,
+      "totalTitles": 564,
       "matchedTitles": 350
     }
   },
@@ -32,7 +32,7 @@
     },
     "Game Catalog": {
       "catalogType": "Game Catalog",
-      "totalTitles": 1028,
+      "totalTitles": 1029,
       "matchedTitles": 505
     },
     "Ubisoft+ Classics": {
@@ -185,6 +185,11 @@
     {
       "service": "PlayStation Plus",
       "title": "Arcade Paradise PS4™ & PS5™",
+      "catalogTypes": "Game Catalog"
+    },
+    {
+      "service": "Xbox Game Pass",
+      "title": "Arkheron (Game Preview)",
       "catalogTypes": "Game Catalog"
     },
     {
@@ -3503,5 +3508,5 @@
       "catalogTypes": "Game Catalog"
     }
   ],
-  "durationSeconds": 130
+  "durationSeconds": 115
 }
